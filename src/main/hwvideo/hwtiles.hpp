@@ -1,6 +1,8 @@
 #pragma once
 
 #include "stdint.hpp"
+#include <string.h>
+
 
 class RomLoader;
 
